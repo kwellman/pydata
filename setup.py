@@ -1,10 +1,10 @@
 from setuptools import setup
 
 setup(
-    name='datum',
+    name='pydata',
     version='0.1',
-    url='http://github.com/kwellman/datum',
+    url='http://github.com/kwellman/pydata',
     author='Kenji Wellman',
     description='Useful data like common names, words, stop words and more as python objects',
-    packages=['datum'],
+    packages=['pydata'],
 )
